@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+__pycache__
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# Chroma database
+db/313b1736-55a7
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
