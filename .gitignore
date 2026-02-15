@@ -8,7 +8,7 @@ __pycache__
 .Python
 
 # Chroma database
-db/313b1736-55a7
+db/313b1736-55a7-*
 
 # IDE
 .vscode/
